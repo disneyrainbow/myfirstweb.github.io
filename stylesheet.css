@@ -1,0 +1,41 @@
+	*{ 
+
+	padding: 0;
+	margin: 0;
+	text-decoration: none;
+	list-style: none;
+	box-sizing: border-box;
+	}
+
+	body {
+	font-family: century gothic;
+	}
+
+	nav {
+	background: rgba(60,60,60,0.71);
+	height: 80px;
+	width: 100%;
+	}
+
+	nav ul {
+	float: right;
+	margin-right: 20px
+	font-size: 17px;
+	font-weight: bold;
+	text-transform: uppercase;
+	}
+
+	nav ul li {
+	display: inline-block;
+	line-height: 80px;
+	margin: 0 5px;
+
+	nav ul li a {
+	colour: white;
+	font-size: 17px;
+	text-transform: uppercase;
+	}
+
+
+
+	
